@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+
+.class1 {
+    background-color: rgb(228, 49, 79);
+    font-size: 18px;
+    font-family: verdana, sans-serif;
+
+}
+
+.class1 .class2{
+    font: size 24px;
+
+}
+
+#two{
+    background-color: white;
+    color: blue;
+    font-size: 36px;
+}
+
+#four{
+    background-color: rgb(52, 216, 46);
+    font-size: 24px;
+    font-weight: bold;
+}
